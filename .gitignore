@@ -1,0 +1,11 @@
+code/UH-*
+code/pickled-*
+code/DISTR-*
+code/Dictionaries
+code/Miner-csv
+code/Miner-vector
+code/bitcoin-mining-pools-master/*.csv
+code/bitcoin-mining-pools-master/*.sqlite
+*.pyc
+.idea
+*.log
